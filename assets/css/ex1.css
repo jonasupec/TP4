@@ -1,0 +1,34 @@
+.titre {
+background-color:#1f7a7a; 
+background-size:50px;
+text-align: center;
+padding: 15px
+} 
+.informaticien{
+  float:left;
+  width: 700px;
+}
+
+ul { text-align: center;
+background-size:10px;
+} 
+img{height: 150px;margin: 15px;box-shadow: 10px 10px 5px #888888;
+}
+li {
+margin-left:70px;
+display: inline;
+text-align:center;
+}
+article{display: inline-table; float:left ;margin-right: 100px; border:1px solid; padding: 9px;}
+footer{display: inline;
+}
+.gauche{text-align: left;
+}
+.droite{text-align: right;
+}
+em {font style: italic; 
+font-weight: bold;}
+aside{ border-bottom:1px dotted black;
+  width : 600px;
+    float :right;
+ }
